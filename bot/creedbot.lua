@@ -230,6 +230,7 @@ function create_config( )
     "calc",
     "bin",
     "tagall",
+    "leave",
     "text",
     "info",
     "bot_on_off",
